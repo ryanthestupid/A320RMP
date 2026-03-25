@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ModuleType>MobiFlight RaspiPico</ModuleType>
+  <ModuleName>MobiFlight RaspiPico</ModuleName>
+  <PowerSavingTime>600</PowerSavingTime>
+  <LedModule Name="Frequencies" ModelType="0" DinPin="28" ClsPin="22" ClkPin="21" Brightness="15" NumModules="2" />
+  <Encoder Name="Right - KHz" PinLeft="8" PinRight="9" EncoderType="0" />
+  <Button Name="Right Button" Pin="10" />
+  <Encoder Name="Left - MHz" PinLeft="5" PinRight="6" EncoderType="0" />
+  <Button Name="Left Button" Pin="7" />
+  <Button Name="On-Off" Pin="11" />
+  <InputMultiplexer Name="Multiplexer" DataPin="4" NumBytes="2">
+    <Selector Name="MultiplexerDriver" PinSx="0 1 2 3" />
+  </InputMultiplexer>
+  <Output Name="VHF1" Pin="14" />
+  <Output Name="VHF2" Pin="15" />
+  <Output Name="VHF3" Pin="16" />
+  <Output Name="HF1" Pin="17" />
+  <Output Name="HF2" Pin="18" />
+  <Output Name="SEL" Pin="19" />
+  <Output Name="AM" Pin="20" />
+</Config>
