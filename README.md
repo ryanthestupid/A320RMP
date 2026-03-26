@@ -13,7 +13,13 @@ This RMP uses [MobiFlight](https://mobiflight.com) for its firmware and programm
 MobiFlight Firmware and Project Files are in `mobiflight/` (`mfmc` and `mfproj`)<br>
 **NOTE: RP2350/Pi Pico 2 will NOT work with MobiFlight. Only the RP2040 or Pi Pico 1 is compatible.**
 
+## Links
+Project Website (WIP) - https://ko6lvm.org/projects/a320rmp<br>
+Hack Club Stasis Project - https://stasis.hackclub.com/dashboard/discover/cmmssstp8007o01myxmtd4il3
+
 ## Pictures
+### Project Image
+<img src="img/project-image.png" alt="Project Image" height=300><br>
 ### Schematic
 `img/schematic.png`<br><img src="img/schematic.png" alt="Schematic" height=700>
 ### PCB
@@ -72,3 +78,5 @@ _plus Applicable Tax, Fees, Shipping, and Tools_
 
 <br>Thanks for looking through my project!<br>
 `5NN TNX FER QSO DE KO6LVM SK CL`
+
+https://KO6LVM.org
