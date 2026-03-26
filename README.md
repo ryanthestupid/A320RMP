@@ -10,6 +10,7 @@ While flying on VATSIM with MSFS2020, I realized it was very difficult to switch
 
 ## Firmware
 This RMP uses [MobiFlight](https://mobiflight.com) for its firmware and programming with a RP2040.<br>
+MobiFlight Firmware and Project Files are in `mobiflight/` (`mfmc` and `mfproj`)<br>
 **NOTE: RP2350/Pi Pico 2 will NOT work with MobiFlight. Only the RP2040 or Pi Pico 1 is compatible.**
 
 ## Pictures
