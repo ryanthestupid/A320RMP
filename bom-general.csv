@@ -15,5 +15,5 @@ Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
 "220ohm R0603","Resistor C22962, min 100",100,0.13,"https://www.lcsc.com/product-detail/C22962.html","LCSC"
 "6digit 7segment Display","Display C47471",3,5.20,"https://www.lcsc.com/product-detail/C47471.html","LCSC"
 "6x6mm Button","Button C49234152, min 20",20,0.61,"https://www.lcsc.com/product-detail/C49234152.html","LCSC"
-"10uF C0603","Capacitor C1591, min 20",20,0.35,"https://www.lcsc.com/product-detail/C96446.html","LCSC"
+"10uF C0603","Capacitor C96446, min 20",20,0.35,"https://www.lcsc.com/product-detail/C96446.html","LCSC"
 "0.1uF C0603","Capacitor C1591, min 100",100,0.28,"https://www.lcsc.com/product-detail/C1591.html","LCSC"
